@@ -27,10 +27,6 @@ I utilized the MobileNet model, a popular deep learning architecture, to classif
 [Download the Dataset from here](https://drive.google.com/drive/folders/1HuA3vjxzOfNKhiYxFt0HfUZQkaoeY0yk?usp=sharing)
 
 
-## MobileNet Family of Architectures: MobileNet, MobileNetV2, and MobileNetV3
-
-This project employs various architectures from the MobileNet family - MobileNet, MobileNetV2, and MobileNetV3 - to achieve efficient and accurate butterfly classification.
-
 ## MobileNet
 
 The `tf.keras.applications.MobileNet` function is used to instantiate the MobileNet architecture. Key parameters and features include:
